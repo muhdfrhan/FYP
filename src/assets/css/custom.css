@@ -1,0 +1,8 @@
+.login-page-background {
+  background: url('/public/zakat_image.jpg') no-repeat center center;
+  background-size: cover;
+  height: 100vh; /* Full viewport height */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
