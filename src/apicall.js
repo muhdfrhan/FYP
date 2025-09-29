@@ -2,7 +2,7 @@
 import axios from "axios";
 
 // --- Ensure these are at the top of your file ---
-const BASE_URL = "http://192.168.0.240:3000/api"; 
+const BASE_URL = "http://localhost:3000/api"; 
 
 // Helper to get token from localStorage
 const getToken = () => localStorage.getItem("authToken");
